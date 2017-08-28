@@ -7,4 +7,5 @@ Feature: User change the item quantity
     Given as a user I am at homepage
     When As a user I click on books link on home page
     And As a user I open First prize pies book
+    And As a user I click on quantity button
     Then AS a user I click on change item quantity user can enter required number of items
